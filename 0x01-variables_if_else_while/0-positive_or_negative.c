@@ -4,7 +4,7 @@
 /* more headers goes there */
 
 /**
- * main - prints exactly "check if the number positive or negative or equal to 0 and print the result"
+ * main - prints exactly "check if the number positive or negative or equal to 0"
  * - Saad Ouchama, 2015-10-19",
  *   Return: Always 0 (Success)
  */
