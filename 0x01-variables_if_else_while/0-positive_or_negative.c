@@ -4,10 +4,9 @@
 /* more headers goes there */
 
 /**
- * main - prints exactly "and that piece of art is useful"
- * @author - "Saad Ouchama", "2015-10-19",
- * @brief "this main fonction check if the number positive or negative or equal to 0 and print the result"
- * @return "Always 0 (Success)"
+ * main - prints exactly "check if the number positive or negative or equal to 0 and print the result"
+ * - Saad Ouchama, 2015-10-19",
+ *   Return: Always 0 (Success)
  */
 int main(void)
 {
